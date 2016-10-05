@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 96872f5cacfdd445b8d4f2e889b5985b
+timeCreated: 1460511853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pixel art_0
+    21300002: Pixel art_1
+    21300004: Pixel art_2
+    21300006: Pixel art_3
+    21300008: Pixel art_4
+    21300010: Pixel art_5
+    21300012: Pixel art_6
+    21300014: Pixel art_7
+    21300016: Pixel art_8
+    21300018: Pixel art_9
+    21300020: Pixel art_10
+    21300022: Pixel art_11
+    21300024: Pixel art_12
+    21300026: Pixel art_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 100
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 100
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 60
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 24.5}
+        - {x: -50, y: -24.5}
+        - {x: 50, y: -24.5}
+        - {x: 50, y: 24.5}
+    - name: Pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 57
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 56
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

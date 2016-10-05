@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB906A78-58E8-CB2D-9595-4B9D0C7210BE}") = "DogFighter", "Assembly-CSharp-firstpass.csproj", "{0DDE0B5F-5F36-A031-69C3-418F30CE125B}"
+EndProject
+Project("{BB906A78-58E8-CB2D-9595-4B9D0C7210BE}") = "DogFighter", "Assembly-CSharp.csproj", "{891946FF-4AED-F9AA-0A9E-CA35A984D10D}"
+EndProject
+Project("{BB906A78-58E8-CB2D-9595-4B9D0C7210BE}") = "DogFighter", "Assembly-CSharp-Editor.csproj", "{48EF7096-0695-CB93-FFBA-8A52400F42F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDE0B5F-5F36-A031-69C3-418F30CE125B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDE0B5F-5F36-A031-69C3-418F30CE125B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDE0B5F-5F36-A031-69C3-418F30CE125B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDE0B5F-5F36-A031-69C3-418F30CE125B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891946FF-4AED-F9AA-0A9E-CA35A984D10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891946FF-4AED-F9AA-0A9E-CA35A984D10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891946FF-4AED-F9AA-0A9E-CA35A984D10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891946FF-4AED-F9AA-0A9E-CA35A984D10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EF7096-0695-CB93-FFBA-8A52400F42F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EF7096-0695-CB93-FFBA-8A52400F42F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EF7096-0695-CB93-FFBA-8A52400F42F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EF7096-0695-CB93-FFBA-8A52400F42F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
